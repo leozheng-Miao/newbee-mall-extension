@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/newbee-mall-cloud-recommend-service/pom.xml" />
+        <option value="$PROJECT_DIR$/newbee-mall-cloud-recommend-service/newbee-mall-cloud-recommend-api/pom.xml" />
+        <option value="$PROJECT_DIR$/newbee-mall-cloud-recommend-service/newbee-mall-cloud-recommend-web/pom.xml" />
+        <option value="$PROJECT_DIR$/newbee-mall-cloud-gateway-mall/pom.xml" />
+        <option value="$PROJECT_DIR$/newbee-mall-cloud-shop-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/newbee-mall-cloud-order-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

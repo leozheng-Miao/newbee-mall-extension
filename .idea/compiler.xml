@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="newbee-mall-cloud-goods-api" />
+        <module name="newbee-mall-cloud-shop-cart-api" />
+        <module name="newbee-mall-cloud-shop-cart-web" />
+        <module name="newbee-mall-cloud-gateway-mall" />
+        <module name="newbee-mall-cloud-order-web" />
+        <module name="newbee-mall-cloud-goods-web" />
+        <module name="newbee-mall-cloud-recommend-api" />
+        <module name="newbee-mall-cloud-recommend-web" />
+        <module name="newbee-mall-cloud-gateway-admin" />
+        <module name="newbee-mall-cloud-common" />
+        <module name="newbee-mall-cloud-user-api" />
+        <module name="newbee-mall-cloud-order-api" />
+        <module name="newbee-mall-cloud-user-web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="newbee-mall-cloud-recommend-api" options="" />
+      <module name="newbee-mall-cloud-recommend-service" options="" />
+      <module name="newbee-mall-cloud-recommend-web" options="" />
+    </option>
+  </component>
+</project>
